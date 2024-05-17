@@ -5,7 +5,7 @@ function HomePageContainer() {
   return (
     <S.HomePageContainer>
       <S.Title>
-        Welcome <span>Mehmet Pekcan</span>
+        Welcome 
       </S.Title>
       <S.Text>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente,
